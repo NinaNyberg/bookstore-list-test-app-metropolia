@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookstore-list-test-app-metropolia/static/css/main.04d61a19.css",
+    "main.js": "/bookstore-list-test-app-metropolia/static/js/main.f20ce621.js",
+    "static/js/787.08f3454f.chunk.js": "/bookstore-list-test-app-metropolia/static/js/787.08f3454f.chunk.js",
+    "index.html": "/bookstore-list-test-app-metropolia/index.html",
+    "main.04d61a19.css.map": "/bookstore-list-test-app-metropolia/static/css/main.04d61a19.css.map",
+    "main.f20ce621.js.map": "/bookstore-list-test-app-metropolia/static/js/main.f20ce621.js.map",
+    "787.08f3454f.chunk.js.map": "/bookstore-list-test-app-metropolia/static/js/787.08f3454f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04d61a19.css",
+    "static/js/main.f20ce621.js"
+  ]
+}
